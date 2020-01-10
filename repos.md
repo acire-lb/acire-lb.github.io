@@ -3,10 +3,9 @@
 
 
 - ### WordPress plugin and api enhancements
-### By Erica
-### PHP, WordPress API, Gravity Forms API, JQuery
-project files:
-[Link](https://github.com/acire-lb/PHP---WordPress-Plugin)
+- -  By Erica
+- -  PHP, WordPress API, Gravity Forms API, JQuery
+- -  project files:[Link](https://github.com/acire-lb/PHP---WordPress-Plugin)
 <br>
 <br>
 <br>
