@@ -2,7 +2,7 @@
 ### Below contains my Projects and Work Repos
 
 
-### WordPress plugin and api enhancements
+- ### WordPress plugin and api enhancements
 ### By Erica
 ### PHP, WordPress API, Gravity Forms API, JQuery
 project files:
@@ -10,7 +10,7 @@ project files:
 <br>
 <br>
 <br>
-## PHP Application - MVC Pattern
+- ## PHP Application - MVC Pattern
 ## By Erica
 ### PHP, MYSQL
 A link to my Repo with the project files:
@@ -18,7 +18,7 @@ A link to my Repo with the project files:
 <br>
 <br>
 <br>
-## C# Application 
+- ## C# Application 
 ## By Erica
 ### C#, MYSQL
 A link to my Repo with the project files:
