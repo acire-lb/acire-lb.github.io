@@ -1,21 +1,23 @@
 # Projects and Repos
+### Below contains my Projects and Work Repos
 
 
-
-## Work Placement plugin and api enhancements
-## By Erica
+### WordPress plugin and api enhancements
+### By Erica
 ### PHP, WordPress API, Gravity Forms API, JQuery
-A link to my Repo with the project files:
+project files:
 [Link](https://github.com/acire-lb/PHP---WordPress-Plugin)
-
-
+<br>
+<br>
+<br>
 ## PHP Application - MVC Pattern
 ## By Erica
 ### PHP, MYSQL
 A link to my Repo with the project files:
 [Link](https://github.com/acire-lb/PHP---Introduction-App)
-
-
+<br>
+<br>
+<br>
 ## C# Application 
 ## By Erica
 ### C#, MYSQL
