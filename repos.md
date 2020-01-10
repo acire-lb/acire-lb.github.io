@@ -9,14 +9,21 @@
 <br>
 <br>
 <br>
-- ## PHP Application - MVC Pattern
+- ### PHP Application - MVC Pattern
   -   By Erica
   -   PHP, MYSQL
   -   A link to my Repo with the project files: [Link](https://github.com/acire-lb/PHP---Introduction-App)
 <br>
 <br>
 <br>
-- ## C# Application 
+- ### C# Application 
   -   By Erica
   -   C#, MYSQL
   -   A link to my Repo with the project files: [Link](https://github.com/acire-lb/PHP---Introduction-App)
+<br>
+<br>
+<br>
+- ## (in the making) Laravel application with Vue.js
+  -   By Erica
+  -   PHP, MYSQL, Vue.js, JQuery
+  -   A link to my Repo with the project files: [Link]()
